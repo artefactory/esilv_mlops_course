@@ -1,5 +1,6 @@
 ## Intro and Use case Reminder
 
+
 The project is *New York City Taxi trip duration prediction*. \
 The goal is to use the available data in order to train a simple machine learning model
 to predict the trip duration based on some input that can be available in production environment.
